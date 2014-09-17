@@ -19,7 +19,7 @@ For now, you can do one of three things:
 
 1. Add `EmitterKit.xcodeproj` as a submodule in your Xcode project and add `EmitterKit.framework` as a target dependency in your Build Phases.
 
-2. Add the pre-built `EmitterKit.framework` to your Xcode project.
+2. Add the pre-built `EmitterKit.framework` to your Xcode project. Built with Xcode 6 GM.
 
 3. Add the source files (in the `src` folder) to your Xcode project.
 
